@@ -1,2 +1,0 @@
-# CareWhite
-Little Game
